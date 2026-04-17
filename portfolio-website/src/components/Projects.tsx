@@ -17,8 +17,8 @@ const Projects = () => {
       description: "Developed a context-aware chrome extension: Integrated AI-Powered assistance using OpenAI API for coding challenges. Designed and Implemented UI with HTML, CSS and JavaScript for seamless ”AI Help” button and chat box integration in a SPA.",
       image: "/Images/Project-1.png",
       tech: ["HTML", "CSS", "JavaScript", "Chrome Extensions", "AI models(e.g., GPT-4)"],
-      liveUrl: "https://github.com/shivanshpandey0608/AI-Integrated-Chrome-Extension-for-maang.in",
-      githubUrl: ""
+      liveUrl: "https://ai-integrated-chrome-extension-for.vercel.app/",
+      githubUrl: "https://github.com/shivanshpandey0608/AI-Integrated-Chrome-Extension-for-maang.in"
     },
 
     {
@@ -27,17 +27,17 @@ const Projects = () => {
       description: "Developed a dynamic whiteboard application using React and HTML5 canvas, styled with Tailwind CSS and deployed on Vercel. It allows multiple users to draw, write, and interact simultaneously on a shared canvas. Integrated tools such as pen, eraser, sticky notes, shapes, and file sharing. Gained hands-on experience with JavaScript, React.js, Tailwind CSS and HTML5 canvas.",
       image: "/Images/Project-2.png",
       tech: ["HTML", "CSS", "JavaScript", "ReactJS"],
-      liveUrl: "https://github.com/shivanshpandey0608/WHITEBOARD-APPLICATION",
-      githubUrl: ""
+      liveUrl: "",
+      githubUrl: "https://github.com/shivanshpandey0608/WHITEBOARD-APPLICATION"
     },
     {
       id: 3,
-      title: "Real-Time Multiplayer Chess Arena",
-      description: "Built a real-time multiplayer chess game using Node.js, Express, and Socket.io, supporting concurrent gameplay and spectator modes.  Implemented server-side move validation and game logic using Chess.js, ensuring a cheat-proof gaming environment. Designed a drag-and-drop frontend interface with automatic perspective rendering for different player roles.",
-      image: "/Images/Project-3.png",
-      tech: ["JavaScript (ES6+)", "Drag-and-Drop API", "Socket.io Client", "Socket.io", "Chess.js", "WebSockets (via Socket.io)", "Game Logic & State Management", "Chess.js"],
-      liveUrl: "https://github.com/shivanshpandey0608/Real-Time-Multiplayer-Chess-Arena",
-      githubUrl: ""
+      title: "FlashCard Engine",
+      description: "Developed an AI-powered web app that transforms PDFs into flashcards, utilizing spaced repetition (SM-2) for enhanced learning efficiency.Implemented client-side PDF parsing and optimized the AI pipeline for low latency and cost efficiency.Created adaptive practice logic featuring dynamic scheduling and rating-based learning feedback.Engineered a secure architecture with Next.js API routes and localStorage for rapid, scalable deployment.",
+      image: "/Images/Project 3.png",
+      tech: ["React.js", "Next.js", "Node.js (API Routes)", "OpenAI API", "pdf.js", "Tailwind CSS", "localStorage"],
+      liveUrl: "https://flash-card-engine-omega.vercel.app/",
+      githubUrl: "https://github.com/shivanshpandey0608/FlashCardEngine"
     }
 
   ];

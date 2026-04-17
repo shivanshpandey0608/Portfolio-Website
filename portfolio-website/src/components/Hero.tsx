@@ -93,7 +93,7 @@ const Hero = () => {
 
   const downloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/Images/Shivansh_Pandey_Resume_.pdf';
+    link.href = '/Images/CareerZenith Resume.pdf';
     link.download = 'Shivansh_Pandey_Resume_.pdf';
     document.body.appendChild(link);
     link.click();
