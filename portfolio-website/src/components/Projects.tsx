@@ -14,7 +14,7 @@ const Projects = () => {
     {
       id: 1,
       title: "TaskFlow - Team Task Manager",
-      description: "Developed a full-stack collaborative task management platform featuring secure JWT authentication and RBAC-based project access. Created a Kanban board with drag-and-drop functionality for tracking workflows across Todo, In Progress, and Done stages. Engineered RESTful APIs for project, task, notification, and user management utilizing Express.js and MongoDB.  Designed a responsive UI with an analytics dashboard, dark/light theme support, and optimized state management using TanStack Query and Zustand",
+      description: "Developed a full-stack collaborative task management platform featuring secure JWT authentication and RBAC-based project access. Created a Kanban board with drag-and-drop functionality for tracking workflows across Todo, In Progress, and Done stages. Engineered RESTful APIs for project, task, notification, and user management utilizing Express.js and MongoDB.  Designed a responsive UI with an analytics dashboard, dark/light theme support, and optimized state management using TanStack Query and Zustand.",
       image: "/Images/Project 1.png",
       tech: ["React", "Node", "Express", "Tailwind CSS", "MongoDB", "Vite", "Mongoose", "JWT"],
       liveUrl: "https://task-manager-doyf.vercel.app/login",
@@ -25,21 +25,21 @@ const Projects = () => {
       id: 2,
       title: "FlashCard Engine",
       description: "Developed an AI-powered web app that transforms PDFs into flashcards, utilizing spaced repetition (SM-2) for enhanced learning efficiency.Implemented client-side PDF parsing and optimized the AI pipeline for low latency and cost efficiency.Created adaptive practice logic featuring dynamic scheduling and rating-based learning feedback.Engineered a secure architecture with Next.js API routes and localStorage for rapid, scalable deployment.",
-      image: "/public/Images/Project 2.png",
+      image: "/Images/Project 2.png",
       tech: ["React.js", "Next.js", "Node.js (API Routes)", "OpenAI API", "pdf.js", "Tailwind CSS", "localStorage"],
       liveUrl: "https://flash-card-engine-omega.vercel.app/",
       githubUrl: "https://github.com/shivanshpandey0608/FlashCardEngine"
-    }
+    },
 
     {
       id: 3,
       title: "Whiteboard Application",
       description: "Developed a dynamic whiteboard application using React and HTML5 canvas, styled with Tailwind CSS and deployed on Vercel. It allows multiple users to draw, write, and interact simultaneously on a shared canvas. Integrated tools such as pen, eraser, sticky notes, shapes, and file sharing. Gained hands-on experience with JavaScript, React.js, Tailwind CSS and HTML5 canvas.",
-      image: "/public/Images/Project 3.png",
+      image: "/Images/Project 3.png",
       tech: ["HTML", "CSS", "JavaScript", "React"],
       liveUrl: "",
       githubUrl: "https://github.com/shivanshpandey0608/WHITEBOARD-APPLICATION"
-    },
+    }
 
 
   ];
