@@ -14,7 +14,7 @@ const Projects = () => {
     {
       id: 1,
       title: "TaskFlow - Team Task Manager",
-      description: "Developed a full-stack collaborative task management platform featuring secure JWT authentication and RBAC-based project access. Created a Kanban board with drag-and-drop functionality for tracking workflows across Todo, In Progress, and Done stages. Engineered RESTful APIs for project, task, notification, and user management utilizing Express.js and MongoDB.  Designed a responsive UI with an analytics dashboard, dark/light theme support, and optimized state management using TanStack Query and Zustand",
+      description: "Developed a full-stack collaborative task management platform featuring secure JWT authentication and RBAC-based project access. Created a Kanban board with drag-and-drop functionality for tracking workflows across Todo, In Progress, and Done stages. Engineered RESTful APIs for project, task, notification, and user management utilizing Express.js and MongoDB.  Designed a responsive UI with an analytics dashboard, dark/light theme support, and optimized state management using TanStack Query and Zustand.",
       image: "/Images/Project 1.png",
       tech: ["React", "Node", "Express", "Tailwind CSS", "MongoDB", "Vite", "Mongoose", "JWT"],
       liveUrl: "https://task-manager-doyf.vercel.app/login",
@@ -29,7 +29,7 @@ const Projects = () => {
       tech: ["React.js", "Next.js", "Node.js (API Routes)", "OpenAI API", "pdf.js", "Tailwind CSS", "localStorage"],
       liveUrl: "https://flash-card-engine-omega.vercel.app/",
       githubUrl: "https://github.com/shivanshpandey0608/FlashCardEngine"
-    }
+    },
 
     {
       id: 3,
@@ -39,7 +39,7 @@ const Projects = () => {
       tech: ["HTML", "CSS", "JavaScript", "React"],
       liveUrl: "",
       githubUrl: "https://github.com/shivanshpandey0608/WHITEBOARD-APPLICATION"
-    },
+    }
 
 
   ];
